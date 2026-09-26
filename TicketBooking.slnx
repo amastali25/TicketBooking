@@ -1,3 +1,9 @@
 <Solution>
+<<<<<<< HEAD
+=======
+  <Project Path="TicketBooking.Application/TicketBooking.Application.csproj" />
+  <Project Path="TicketBooking.Domain/TicketBooking.Domain.csproj" />
+  <Project Path="TicketBooking.Infrastructure/TicketBooking.Infrastructure.csproj" />
+>>>>>>> origin/master
   <Project Path="TicketBooking/TicketBooking.csproj" />
 </Solution>
